@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "10.15.3",
+  "description": "simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MegaloTheDon/Intro-to-Node.git"
+  },
+  "author": "MegaloTheDon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MegaloTheDon/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/MegaloTheDon/Intro-to-Node#readme"
+}
